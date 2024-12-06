@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ansoldatov)](https://leetcode.com/ansoldatov/)
+
+# Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoldatovAlexandr&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/SoldatovAlexandr?tab=repositories)
+
 <!--
 **SoldatovAlexandr/SoldatovAlexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
